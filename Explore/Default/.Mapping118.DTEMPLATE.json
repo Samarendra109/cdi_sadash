@@ -41,6 +41,9 @@
       }, {
         "name" : "0100002800000000000A",
         "value" : "f8BvuZGYZsybpaDlva4Bk9@getUserByName"
+      }, {
+        "name" : "0100002800000000000B",
+        "value" : "f8BvuZGYZsybpaDlva4Bk9@addPet"
       } ],
       "additionalInfo" : {
         "description" : "",
