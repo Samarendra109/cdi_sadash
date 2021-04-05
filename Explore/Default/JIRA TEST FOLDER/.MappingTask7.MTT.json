@@ -1,5 +1,49 @@
 {
   "objectInfo" : {
+    "id" : "kNLhpdvN9OAjanYALkIe6m",
+    "name" : "MappingTask7",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100000Z00000000007R"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "0I7OFh3nRcggf2mKiXMsUo",
+    "name" : "inarunj1701.informatica.com",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000025000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
     "id" : "aVWM8QdCnfBg5limMdGBOp",
     "name" : "Mapping118",
     "type" : "DTEMPLATE",
@@ -20,10 +64,9 @@
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
-    }
-  },
-  "dataFileExtension" : "zip",
-  "objectRefs" : [ {
+    },
+    "path" : "/Explore/Default/JIRA TEST FOLDER"
+  }, {
     "id" : "f8BvuZGYZsybpaDlva4Bk9",
     "name" : "Business Service3",
     "type" : "BSERVICE",
@@ -39,6 +82,9 @@
         "name" : "id",
         "value" : "@1"
       }, {
+        "name" : "0100002800000000000C",
+        "value" : "f8BvuZGYZsybpaDlva4Bk9@addPet"
+      }, {
         "name" : "0100002800000000000A",
         "value" : "f8BvuZGYZsybpaDlva4Bk9@getUserByName"
       } ],
@@ -48,7 +94,7 @@
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/Default"
+    "path" : "/Explore/Default/JIRA TEST FOLDER"
   }, {
     "id" : "9OKYu2SFtT5hcgq04qvrS0",
     "name" : "SQL Server Connection 2",

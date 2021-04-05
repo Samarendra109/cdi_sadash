@@ -15,6 +15,9 @@
         "name" : "id",
         "value" : "@1"
       }, {
+        "name" : "0100002800000000000C",
+        "value" : "f8BvuZGYZsybpaDlva4Bk9@addPet"
+      }, {
         "name" : "0100002800000000000A",
         "value" : "f8BvuZGYZsybpaDlva4Bk9@getUserByName"
       } ],
